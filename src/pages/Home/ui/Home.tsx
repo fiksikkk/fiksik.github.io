@@ -1,3 +1,10 @@
+import { Card } from '../../../shared/uiKit/Card';
+
 export function Home() {
-  return <text>Home</text>;
+  return (
+    <div>
+      <h1>Home</h1>
+      <Card title={'Home'} />
+    </div>
+  );
 }
