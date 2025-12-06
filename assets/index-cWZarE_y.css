@@ -1,1 +1,0 @@
-:root{--bg:#fff;--text:#111827;--accent:#0b5fff;--card:#f7f8fa;--radius:12px;--shadow:0 6px 18px #0b5fff14}[data-theme=dark]{--bg:#0b1020;--text:#e6eef8;--accent:#6ea8ff;--card:#0f1726;--shadow:0 8px 24px #00000073}*{box-sizing:border-box}html,body,#root{height:100%}body{background:var(--bg);color:var(--text);margin:0;font-family:Inter,sans-serif;line-height:1.45}
