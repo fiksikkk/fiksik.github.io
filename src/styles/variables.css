@@ -1,0 +1,16 @@
+:root {
+  --bg: #ffffff;
+  --text: #111827;
+  --accent: #0b5fff;
+  --card: #f7f8fa;
+  --radius: 12px;
+  --shadow: 0 6px 18px rgba(11, 95, 255, 0.08);
+}
+
+[data-theme="dark"] {
+  --bg: #0b1020;
+  --text: #e6eef8;
+  --accent: #6ea8ff;
+  --card: #0f1726;
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+}
